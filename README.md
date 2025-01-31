@@ -18,7 +18,7 @@ Ele recebe um CPF via requisição HTTP e retorna um JSON indicando se o CPF é 
 - Azure CLI
 - Azure Functions Core Tools
 
-  ## 🧑‍💻  Para Executar Localmente
+## 🧑‍💻  Para Executar Localmente
 
 ### Pré-requisitos
 
